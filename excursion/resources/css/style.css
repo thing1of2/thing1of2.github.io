@@ -21,7 +21,7 @@ footer {
     color: gray;
 }
 
-.link {
+a {
   font-size: 16px;
   color: aquamarine;
 }
