@@ -5,10 +5,21 @@
 
 .header {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
 
 .link {
   font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+.linkpadding {
+  padding-bottom: 10px;
+}
+
+.footerlink {
+  font-size: 11px;
   color: white;
 }
 
@@ -25,6 +36,7 @@ h2 {
 
 h3 {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
   font-size: 23px;
   font-weight: bold;
   color: white;
